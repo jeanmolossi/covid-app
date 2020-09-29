@@ -37,8 +37,6 @@ Este projeto foi desenvolvido em Live com o objetivo de aprender e usar técnica
 
 </div>
 
-### You can see more in another branches.
-
 # :construction_worker: Instalação
 
 **Você precisa instalar [Node.js](https://nodejs.org/en/download/), [Npm](https://www.npmjs.com/), [Expo-cli](https://expo.io/learn) primero, e então, em ordem. Clone o projeto via HTTPS, rode o comando:**
