@@ -1,6 +1,4 @@
-# App desenvolvido em Live
-
-# SeeData
+# App SeeData (Covid App) desenvolvido em Live
 
 ![Logo da Twitch](./assets/doc/twitch.png)
 
@@ -30,15 +28,12 @@ Este projeto foi desenvolvido em Live com o objetivo de aprender e usar técnica
 
 # :point_right: Screens
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-around;">
 
-![Login](./assets/doc/Login.jpg)
-
-![Register](./assets/doc/Register.jpg)
-
-![Home](./assets/doc/Home.jpg)
-
-![Statistics](./assets/doc/Statistics.jpg)
+<img src="./assets/doc/Login.jpg" width="23%" />
+<img src="./assets/doc/Register.jpg" width="23%" />
+<img src="./assets/doc/Home.jpg" width="23%" />
+<img src="./assets/doc/Statistics.jpg" width="23%" />
 
 </div>
 
