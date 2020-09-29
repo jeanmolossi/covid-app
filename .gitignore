@@ -21,6 +21,8 @@ DerivedData
 *.ipa
 *.xcuserstate
 project.xcworkspace
+src/config/firebase.ts
+src/config/api.ts
 
 # Android/IntelliJ
 #
